@@ -1,3 +1,3 @@
 ﻿# fanatech-task( deployment link)
-https://fanatech-task-q7790n223-khanniloytahsin-gmailcom.vercel.app/
+https://kaderfoysal600.github.io/fanatech-Frontend/
 # fanatech-Frontend
