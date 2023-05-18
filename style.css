@@ -212,12 +212,14 @@ header {
 }
 
 .explore-btn {
-  padding: 12px 50px;
+  padding: 12px 0px;
   gap: 5px;
-  width: 154px;
+  width: 100%;
+  max-width: 154px;
   height: 58px;
   background: #396c03;
-  border-radius: 225px;
+  border-radius: 30px;
+  text-align: center;
 }
 .explore-btn p {
   font-family: "Poppins";
